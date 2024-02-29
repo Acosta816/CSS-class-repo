@@ -1,0 +1,13 @@
+.tevin {
+    border-radius: 30px;
+    background-color: darkgreen;
+    border-width: 25px;
+    margin: 0 auto;
+    border-style: groove;
+    text-align: center;
+    padding: 10px;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}

@@ -1,0 +1,52 @@
+.sam {
+    border-width:10px;
+    color: purple;
+    margin: 0 auto;
+    width: 419px;
+    height: 415px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #55a4f1;
+    background-size:cover;
+    background-image: url("https://wallpapers.com/images/featured/beach-eoxvk1itsaibfbo1.jpg");
+    background-position:top;
+    background-repeat: no-repeat;
+    position: relative
+}
+
+.sam p {
+    width: fit-content;
+    display: inline-block;
+}
+
+.sam p::first-letter {
+    font-size: 30px;
+}
+
+.dog {
+    background-image: url(../images/dance-dog.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: solid 2px black;
+    width: 50px;
+    height: 50px;
+    background-position: top;
+    display: inline-block;
+    background-position-x: 7px;
+    position: absolute;
+    bottom: 26px;
+    right: 86px;
+    border-radius: 25px;
+}
+
+.dog:hover {
+    width: 300px;
+    height: 300px;
+    box-shadow: 0px 0px 18px 18px blue;
+    border-radius: 100%;
+}
+
+nav {
+    border: solid 2px red;
+    text-align: end;
+}

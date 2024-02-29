@@ -1,0 +1,13 @@
+.jensen {
+    text-align: center;
+    border: 8px inset red;
+    border-width: 8px 12px 8px 12px;
+    border-radius: 10px;
+    color: grey;
+    margin: auto;
+    width: 10rem;
+    height: 5rem;
+    background-image: url(https://i.kym-cdn.com/entries/icons/original/000/044/937/sad_banana_cat.jpg);
+    background-position: center;
+    background-size: contain;
+}

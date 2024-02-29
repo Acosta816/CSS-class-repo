@@ -1,0 +1,18 @@
+.Farid{
+  text-align: center;
+  width: 40%;
+  margin-left: 100px;
+  background: aquamarine;
+  border-radius: 10px;
+  color: black;
+}
+
+main > .Farid{
+  background-image: url('https://sm.ign.com/t/ign_za/review/d/demon-slay/demon-slayer-season-3-review_99ec.1280.jpg');
+  background-position: center;
+  background-size: contain;
+}
+
+main > .Farid{
+  background-color: green;
+}

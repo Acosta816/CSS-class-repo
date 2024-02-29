@@ -1,0 +1,12 @@
+.jake {
+    border: solid red;
+    border-width: 5px 10px 2px 30px;
+    border-radius: 20px 5px 200px 10px;
+    font-size: 30px;
+    color: purple;
+    width: 150px;
+    background-color: yellow;
+    background-image: url("https://i.gyazo.com/ded2e089e2d565d5c324d1e54fc69e0c.png");
+    background-position: center;
+    background-size: contain;
+}

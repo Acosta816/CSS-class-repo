@@ -1,0 +1,13 @@
+div.preet{
+    color:blue;
+    text-align: center;
+    border: solid 1px black;
+    width:50%;
+    margin-left: 100px;
+    background: salmon;
+    border-radius: 10px;
+    background-image: url("https://img.freepik.com/free-photo/coffee-beans-top-view-white-background-space-text_176474-5028.jpg?w=1380&t=st=1709186126~exp=1709186726~hmac=b9f25f0055e9f5cf2b25499f77a8679277b733a4f410a2f54747fdec03915fcd");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+

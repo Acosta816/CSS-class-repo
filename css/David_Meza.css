@@ -1,0 +1,12 @@
+.david{
+    text-align: center;
+    color: black;
+    background-image: url(https://m.media-amazon.com/images/M/MV5BZTg2YmFmYjYtZmNmNy00NmYzLWFkYjMtZWRhYjc4ODEyZTg2XkEyXkFqcGdeQXVyMjgyOTI4Mg@@._V1_.jpg);
+    background-position: left contain;
+    height: 10rem;
+    width: 10rem;
+    border: 2px dashed black;
+    border-radius: 10px 10px 10px 10px;
+    padding: .5rem;
+    margin: auto;
+}

@@ -1,0 +1,9 @@
+div.test {
+    border: solid 2px orange;
+    height: 100px;
+    width: 100px;
+    background-image: url("https://wallpapercave.com/wp/wp4576881.jpg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}

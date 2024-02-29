@@ -1,0 +1,26 @@
+
+body {
+    border: dashed 2px green;
+}
+
+
+
+div {
+    border: solid 2px red;
+    height: 50px;
+    background-color: rgb(36, 146, 78);
+}
+
+a {
+    border: solid 5px #ff22e657;
+}
+
+.glen {
+    border: solid 5px #000000;
+    border-radius: 15px;
+    text-align: center;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: aqua;
+}
+
+

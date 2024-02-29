@@ -1,0 +1,12 @@
+.Michael_Nims {
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid rgb(57, 49, 49);
+    padding: 0 10px;
+}
+
+main > .Michael_Nims{
+    background-image: url(https://assets-prd.ignimgs.com/2022/08/01/andor-button-1659389252812.jpg);
+    background-position: center;
+}

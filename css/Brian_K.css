@@ -1,0 +1,29 @@
+.brian {
+    border-width: solid blue 10px 5px 10px 5px;
+    text-align: center;
+    color: greenyellow;
+    background: brown;
+    padding: 4px;
+}
+
+main > .brian{
+    background-color: green;
+}
+
+main > .brian{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Brian_Griffin.png/220px-Brian_Griffin.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+    margin: auto;  
+}
+
+/* target a div with class of your name
+background-image
+
+
+*/
+
+

@@ -1,0 +1,12 @@
+.daniyel {
+    border-width: solid green 5px 10px 5px 10px;
+    text-align: center;
+    color: blue;
+    background: lightblue;
+    padding: 5px;
+    border-radius: 30px;
+    background-image: url("https://images7.alphacoders.com/133/1338846.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}

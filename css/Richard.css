@@ -1,0 +1,13 @@
+h3{
+    color: rgba(14, 14, 75, 0.21);
+    text-shadow: 2px 2px 8px rgb(244, 4, 192) ;
+}
+.richard {
+text-align: center;
+border: double rgb(88, 10, 88) 10px;
+background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe3V1cmY2iOfq_QwQU_oDD167g3euqsCr3T-4EWifpolyCf3-hu3_krcs368gVo89y7ebN3Q");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
